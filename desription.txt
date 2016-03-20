@@ -1,5 +1,8 @@
 Version 0.0.1
 This repository is mainly used for eclipse projects.
+<<<<<<< HEAD
 
 Version 0.0.2
 Added demo text to test versions
+=======
+>>>>>>> e84894addc82a91876e5750685c4f8fb06016865
